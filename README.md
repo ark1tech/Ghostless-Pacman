@@ -1,0 +1,2 @@
+## Ghostless-Pacman
+Ghostless Pacman is a 2D game made using C and a simplified version of the famous maze video game, Pac-Man. In this post-apocalyptic world where ghosts are no longer living, the player controls a character named Pacman. He is alone. Nothing to run from. No ghosts to play with. He realized that he is more frightened in solitary than a ghost's company. Suddenly, the Lord of Console had approached him and gave him a chance to revive the ghosts. Since then, Pacman dedicated his life to this endeavor.
